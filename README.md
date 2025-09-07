@@ -1,3 +1,0 @@
-# WNJHome
-
-Build in progress
